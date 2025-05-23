@@ -4,7 +4,7 @@
  */
 
 /**
- *ssadfsafsadfasfd
+ *
  * @author MHamd
  */
 public class HastaPaneli extends javax.swing.JFrame {
